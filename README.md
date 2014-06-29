@@ -34,3 +34,6 @@ app/config/packages/creolab/laravel-modules/config.php
 ### 3. Run composer
 ### 4. ???
 ### 5. Be happy with laravel-modules & composer
+
+## Example
+View this [example project](https://github.com/moritzewert/lara-como-boilerplate-example)
