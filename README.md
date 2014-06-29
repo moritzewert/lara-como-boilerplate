@@ -31,6 +31,6 @@ app/config/packages/creolab/laravel-modules/config.php
   ],
 ],
 ```
-### Run composer
-### ???
-### Be happy with laravel-modules & composer
+### 3. Run composer
+### 4. ???
+### 5. Be happy with laravel-modules & composer
