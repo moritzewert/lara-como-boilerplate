@@ -19,7 +19,6 @@ return [
 	 */
 	'modules' => [
 		'vendor' => [
-			'moritzewert/laravel-module-composer-test'    => ['enabled' => true]
 		],
 	],
 

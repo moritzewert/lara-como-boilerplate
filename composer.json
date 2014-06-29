@@ -5,9 +5,7 @@
 	"license": "",
 	"require": {
 		"laravel/framework": "4.2.*",
-		"creolab/laravel-modules": "dev-master",
-		"indatus/dispatcher": "dev-master",
-		"moritzewert/laravel-module-composer-test": "dev-master"
+		"creolab/laravel-modules": "dev-master"
 	},
 	"scripts": {
 		"post-install-cmd": [
@@ -28,9 +26,5 @@
 	},
 	"minimum-stability": "stable",
 	"repositories": [
-		{
-			"type": "vcs",
-			"url": "https://github.com/moritzewert/laravel-module-composer-test"
-		}
 	]
 }
